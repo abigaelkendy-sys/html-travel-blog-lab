@@ -1,0 +1,20 @@
+# JavaScript Calculator
+
+## Description
+This project is a simple calculator built using JavaScript. It performs basic arithmetic operations and stores a history of calculations.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Handles string inputs using Number()
+- Stores calculation history
+- Clear history function
+
+## How to Run
+1. Open terminal
+2. Run: node calculator.js
+
+## Example
+calculate(5, "+", 3) → 8
